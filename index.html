@@ -1,0 +1,291 @@
+---
+layout: default
+title: Home
+notes: passive
+description: Home
+---
+<!-- <script>
+// Set the date we're counting down to
+var countDownDate = new Date("Jul 1, 2017 00:00:00").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get todays date and time
+  var now = new Date().getTime();
+
+  // Find the distance between now an the count down date
+  var distance = countDownDate - now;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  function pad(d) {
+    return (d < 10) ? '0' + d.toString() : d.toString();
+  }
+
+
+  // Display the result in the element with id="demo"
+  document.getElementById("demo").innerHTML = pad(days) + "days " + pad(hours) + ":"
+  + pad(minutes) + ":" + pad(seconds);
+
+  // If the count down is finished, write some text
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("demo").innerHTML = "EXPIRED";
+  }
+}, 1000);
+</script> -->
+
+	<!-- HOME -->
+	<section id="home" class="module-hero module-parallax module-fade module-full-height">
+
+		<div class="hero-slider">
+			<ul class="slides">
+
+				<li class="bg-dark">
+
+					<div class="slidebg slide-zoom bg-dark-30" style="background-image:url({{ asset-path }}/assets/images/IMG_2545.jpg)"></div>
+					<div class="hs-caption container">
+						<div class="caption-content">
+							<div class="hs-title-size-4 font-alt font-slide m-b-20">
+                              Wild
+							</div>
+							<div class="hs-title-size-3 font-inc font-slide">
+									and Delicious Exploration
+							</div>
+						</div>
+					</div>
+
+				</li>
+
+				<li class="bg-dark">
+
+					<div class="slidebg slide-zoom bg-dark-30" style="background-image:url({{ '/assets/images/IMG_25455.jpg' | asset_path }})"></div>
+
+					<div class="hs-caption container">
+						<div class="caption-content">
+							<div class="hs-title-size-4 font-alt font-slide m-b-20">
+              Life
+							</div>
+							<div class="hs-title-size-3 font-inc font-slide">
+								is Full <br/> Circle
+							</div>
+						</div>
+					</div>
+
+				</li>
+				<!-- <li class="bg-dark">
+
+					<div class="slidebg slide-zoom bg-dark-30" style="background-image:url({{ '/assets/images/IMG_2538.jpg' | asset_path }})"></div>
+
+					<div class="hs-caption container">
+						<div class="caption-content">
+							<div class="hs-title-size-4 font-alt font-slide m-b-20">
+          When woman’s energy flowers, she radiates an irresistible inner beauty attuned to the heartbeat of the planet.</br>
+
+							</div>
+							<div class="countdown" id="demo">
+
+							</div>
+
+						</div>
+					</div>
+
+				</li> -->
+				<!-- /SLIDE -->
+
+			</ul>
+		</div>
+
+	</section >
+	<!-- /HOME -->
+	<!-- ABOUT -->
+		<div class="wrapper">
+	<section class="module p-t-0 p-b-0" data-background="">
+
+		<div class="container-fluid">
+
+			<div class="row relative">
+
+				<div class="col-sm-12 col-md-12">
+
+					<h2 class="module-title-yes font-yes">Welcome to Circle Blossom!</h2>
+
+					<div class="module-subtitle font-sub">
+						<p>This is a site dedicated to women. It is a safe space for women to learn, explore and honor the authentic <span class="pink-font">Feminine Essence </span> and unique <b>Sensual Wisdom.</b>
+						<p>When a woman’s energy flowers, she radiates an irresistible inner beauty attuned to the heartbeat of the planet.
+
+						<p>I believe in our inner knowledge and intuition as cyclical beings.
+						<p><b>We know!</b> and we deserve to <b>RE-Embody</b> our feminine power and potential!
+
+						<p>Here you <b>find secrets</b> carefully chosed about how to become a body-literate, develop a cycle awareness and  manage your time efficiently to  sustain the connection to your Inner Woman on the daily, in accordance to your potential phases.
+
+						<p>I hope you enjoy the experience on this website and find yourself feeling inspired enough to share your knowledge; purchase a <span class="highlight">Yoni Egg</span> or join us during our <b>Circle Blossom Ceremony.</b>
+
+						<p><i>La version française sera prochainement éditée! Merci pour votre visite!</i>
+
+
+					</div>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</section>
+</div>
+	<!-- WRAPPER -->
+	<div class="wrapper">
+
+		<!-- PORTFOLIO -->
+		<section class="module-full-height">
+
+			<div class="container hidden-xs">
+
+				<!-- PORTFOLIO FILTER -->
+				<div class="row">
+					<div class="col-sm-12">
+
+						<ul id="filters" class="filter font-inc">
+							<li><a href="#" data-filter="*" class="current wow fadeInUp"></a></li>
+							<li><a href="#" data-filter=".illustration" class="wow fadeInUp" data-wow-delay="0.2s"></a></li>
+							<li><a href="#" data-filter=".marketing" class="wow fadeInUp" data-wow-delay="0.4s"></a></li>
+							<li><a href="#" data-filter=".photography" class="wow fadeInUp" data-wow-delay="0.6s"></a></li>
+							<li><a href="#" data-filter=".webdesign" class="wow fadeInUp" data-wow-delay="0.8s"></a></li>
+						</ul>
+
+					</div>
+				</div>
+				<!-- /PORTFOLIO FILTER -->
+
+				<!-- PORTFOLIO LIST -->
+				<ul id="works-grid" class="works-grid works-grid-masonry works-grid-3 works-hover-w">
+
+					<!-- PORTFOLIO ITEM -->
+					<li class="work-item illustration webdesign">
+						<a href="/womancycle/">
+							<div class="work-image">
+								<img src="/assets/images/1.png" alt="">
+							</div>
+							<div class="work-caption">
+								<h3 class="work-title font-alt">The Woman Cycle</h3>
+								<div class="work-descr font-inc">
+
+								</div>
+							</div>
+						</a>
+					</li>
+					<!-- /PORTFOLIO ITEM -->
+
+					<!-- PORTFOLIO ITEM -->
+					<li class="work-item marketing photography">
+						<a href="/yoni">
+							<div class="work-image">
+								<img src="/assets/images/2.png" alt="">
+							</div>
+							<div class="work-caption">
+								<h3 class="work-title font-alt">Yoni Eggs</h3>
+								<div class="work-descr font-inc">
+
+								</div>
+							</div>
+						</a>
+					</li>
+					<!-- /PORTFOLIO ITEM -->
+
+					<!-- PORTFOLIO ITEM -->
+				<li class="work-item illustration photography">
+						<a href="/agenda">
+							<div class="work-image">
+								<img src="/assets/images/3.png" alt="">
+							</div>
+							<div class="work-caption">
+								<h3 class="work-title font-alt">Agenda</h3>
+								<div class="work-descr font-inc">
+
+								</div>
+							</div>
+						</a>
+					</li>
+					<!-- /PORTFOLIO ITEM -->
+
+
+				 </ul>
+
+
+				 </section>
+
+			</div>
+		</div>
+
+
+
+		<!-- CONTACT -->
+		<!--hr class="divider-w"-->
+		<!-- <section class="module-small" id="contact">
+
+			<div class="container">
+
+				<div class="row"> -->
+
+					<!-- CONTENT BOX -->
+					<!-- <div class="col-sm-3">
+						<div class="content-box">
+							<div class="content-box-icon">
+								<span class="icon-map"></span>
+							</div>
+							<div class="content-box-title font-inc">
+								WorldWide
+							</div>
+						</div>
+					</div> -->
+					<!-- /CONTENT BOX -->
+
+					<!-- CONTENT BOX -->
+					<!-- <div class="col-md-4 col-sm-4">
+						<div class="content-box">
+							<div class="content-box-icon">
+								<a href="https://www.facebook.com/Circle-Blossom-1859088501039562/"><span class="icon-facebook"></span>
+
+							<div class="content-box-title font-inc">
+							Facebook
+							</div>
+						</div>
+						</div>
+					</div>
+
+					<div class="col-md-4 col-sm-4">
+						<div class="content-box">
+							<div class="content-box-icon">
+								<a href="https://www.instagram.com/circleblossom/"><span class="icon-picture"></span>
+									<div class="content-box-title font-inc">
+										Instagram
+									</div>
+							</div>
+						</div>
+					</div>
+
+					<!-- CONTENT BOX -->
+					<!-- <div class="col-md-4 col-sm-4">
+						<div class="content-box">
+							<div class="content-box-icon">
+								<a href="mailto:contactcircleblossom@gmail.com">
+								<span class="icon-envelope"></span>
+
+							<div class="content-box-title font-inc">
+								contactcircleblossom
+							</div>
+						</div>
+					</div>
+				</div> -->
+
+					<!-- /CONTENT BOX -->
+<!--
+				</div>
+			</div> -->
+		<!-- </section> -->

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	{% include head.html %}
+
+	<body>
+
+			<!-- {% include preloader.html %} -->
+
+			{% include header.html %}
+
+      <section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-50" data-background="/assets/images/agenda.jpg">
+
+    		<div class="hs-caption container">
+    			<div class="caption-content">
+    				<div class="hs-title-size-3 font-alt m-b-20">
+    				Agenda
+    				</div>
+
+    			</div>
+    		</div>
+
+    	</section >
+
+			{{ content }}
+
+			{% include footer.html %}
+
+			{% include totop.html %}
+
+
+
+		{% include scripts.html %}
+
+	</body>
+
+</html>

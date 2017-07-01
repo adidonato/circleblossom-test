@@ -1,0 +1,42 @@
+---
+title: Circleblossom.Github.Io
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+permalink: "/notes/:year/:month/:day/:title"
+markdown: kramdown
+#plugins: [jekyll-admin]
+# kramdown:
+#   parse_block_html: true
+# baseurl: ""
+# gems:
+#   - jekyll-assets
+# assets:
+#
+#   #
+#
+#   autowrite: true
+#   prefix: "assets"
+#   digest: true
+# #
+# #   #
+# #
+#   assets:
+#     - "*.png"
+#     - "*.jpg"
+#     - "bundle.css"
+#     - "main.css"
+#
+#   #
+#
+#   sources:
+#     - assets/css
+#     - assets/images
+#     - assets/fonts
+#     - assets/img
+#     - assets/js
