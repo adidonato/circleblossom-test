@@ -579,15 +579,26 @@ ol, ul, blockquote {
 }
 
 .highlight {
-	font-size: 22px;
+	font-size: 15px;
 	color: #1eeb91;
 }
 
 .pink-font {
-	font-size: 22px;
+	font-size: 15px;
 	color: #ebc4c1;
 }
 
+@media (min-width: 1200px) {
+	.highlight {
+		font-size: 22px;
+		color: #1eeb91;
+	}
+
+	.pink-font {
+		font-size: 22px;
+		color: #ebc4c1;
+	}
+}
 ul.a {
 	list-style-position:inside;
 
@@ -698,7 +709,7 @@ blockquote > p {
 /* ------------------------------------------------------------------
 Navbar
 ------------------------------------------------------------------- */
-
+ul.nav li.dropdown:hover ul.dropdown-menu{ display: block; }
 .navbar-custom {
 	background: #fff;
 	border: 0;
