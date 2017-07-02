@@ -523,7 +523,7 @@ h2 {
 
 @media (min-width: 1200px) {
 	h2 {
-		 font-size: 96px;
+		 font-size: 60px;
 		 color: #4d4d4d;
 		 padding: 18px;
 	 }
@@ -565,6 +565,12 @@ h3 {
  }
 }
 
+@media (min-width: 1200px) {
+	ol, ul {
+
+
+	}
+}
 ol, ul, blockquote {
 	/*font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;*/
 	font-family: 'Arvo', serif;
@@ -586,6 +592,10 @@ ol, ul, blockquote {
 .pink-font {
 	font-size: 15px;
 	color: #ebc4c1;
+}
+
+.under {
+	text-decoration: underline;
 }
 
 @media (min-width: 1200px) {
@@ -622,7 +632,7 @@ blockquote {
 	text-orientation: upright;
 	border-width: thick;
 	padding: 10px;
-	margin: 10px;
+	margin: 30px;
 }
 
 blockquote > p {
@@ -633,18 +643,19 @@ blockquote > p {
 @media (min-width: 1200px) {
 	blockquote {
 		background-color: #ebc4c1;
-		margin-left: 0px;
+		/*margin-left: 0px;*/
 		border: 0;
 		font-style: italic;
 		font-size: 14px;
 		padding: 0;
 		border: black;
 		border-style: groove;
-		margin-left: 180px;
+		/*margin-left: 180px;*/
 		width: 1000px;
 		text-orientation: upright;
 		border-width: thick;
 		padding: 20px;
+		margin: 50px 30px 50px 180px;
 	}
 
 	blockquote > p {
