@@ -8,7 +8,7 @@
 									<span class="icon-bar"></span>
 									<span class="icon-bar"></span>
 							</button>
-							<a class="navbar-brand" href="/index.html"></a>
+							<a class="navbar-brand" href="{{ site.baseurl }}{% link index.html %}"></a>
 					</div>
 
 					<div class="collapse navbar-collapse" id="custom-collapse">
@@ -16,29 +16,29 @@
 							<ul class="nav navbar-nav navbar-right">
 
 									<li class="dropdown">
-									<a href="/index.html">Home</a>
+									<a href="{{ site.baseurl }}{% link index.html %}">Home</a>
 									</li>
 									<li class="dropdown">
 
-											<a class="dropdown-toggle" data-toggle="dropdown" data-toggle="dropdown" href="/womancycle/">The Woman Cycle
+											<a class="dropdown-toggle" data-toggle="dropdown" data-toggle="dropdown" href="{{ site.baseurl }}{% link womancycle.html %}">The Woman Cycle
 										</a>
 											<ul class="dropdown-menu">
-													<li class="mobile visible-xs visible-sm"><a href="/womancycle/"><b>The Woman Cycle</b></a></li>
-													<li><a href="/menstrualcycleblessing">Menstrual Cycle Blessing</a></li>
-													<li><a href="/the-four-phases">The Woman Cycle Four Phases</a></li>
-													<li><a href="/discover-your-abilities">Discovering your abilities</a></li>
-													<li><a href="/organise-your-month">How to organise your month</a></li>
+													<li class="mobile visible-xs visible-sm"><a href="{{ site.baseurl }}{% link womancycle.html %}"><b>The Woman Cycle</b></a></li>
+													<li><a href="{{ site.baseurl }}{% link menstrualcycleblessing.markdown %}">Menstrual Cycle Blessing</a></li>
+													<li><a href="{{ site.baseurl }}{% link the-four-phases.html %}">The Woman Cycle Four Phases</a></li>
+													<li><a href="{{ site.baseurl }}{% link discover-your-abilities.markdown %}">Discovering your abilities</a></li>
+													<li><a href="{{ site.baseurl }}{% link organise-your-month.markdown %}">How to organise your month</a></li>
 
 											</ul>
 									</li>
 
 									<li class="dropdown">
-											<a href="/yoni" class="dropdown-toggle" data-toggle="dropdown">Yoni Eggs</a>
+											<a href="{{ site.baseurl }}{% link yoni.html %}" class="dropdown-toggle" data-toggle="dropdown">Yoni Eggs</a>
 											<ul class="dropdown-menu">
-													<li class="mobile visible-xs visible-sm"><a href="/yoni"><b>Yoni Eggs</b></a></li>
-													<li><a href="/yoni-eggs-blessing">Blessing Yoni Eggs</a></li>
-													<li><a href="/choose-my-first-yoni-egg">Cherry-pick my First Yoni Egg</a></li>
-													<li><a href="/cleaning-my-eggs">Caring about my Yoni Egg</a></li>
+													<li class="mobile visible-xs visible-sm"><a href="{{ site.baseurl }}{% link yoni.html %}"><b>Yoni Eggs</b></a></li>
+													<li><a href="{{ site.baseurl }}{% link yoni-eggs-blessing.markdown %}">Blessing Yoni Eggs</a></li>
+													<li><a href="{{ site.baseurl }}{% link choose-my-first-yoni-egg.markdown %}">Cherry-pick my First Yoni Egg</a></li>
+													<li><a href="{{ site.baseurl }}{% link cleaning-my-eggs.markdown %}">Caring about my Yoni Egg</a></li>
 													<!-- <li><a href="/yoni#first">My first time</a></li> -->
 
 											</ul>
@@ -55,7 +55,7 @@
 												{% endfor %}
 									</li> -->
 
-										<li><a href="/agenda">Agenda</a></li>
+										<li><a href="{{ site.baseurl }}{% link agenda.markdown %}">Agenda</a></li>
 
 									<li class="dropdown">
 											<a href="#" class="dropdown-toggle" data-toggle="dropdown">Shop</a>

@@ -59,6 +59,6 @@ If you plan on trying a new diet and start eating healthy, this time is ideal as
 Don’t forget to thank yourself and note all your achievements: it always gives satisfaction to look at the tasks we accomplished.
 
 <ul class="pager">
-    <li class="previous"><a href="/the-menstruation-phase">Previous</a></li>
-    <li class="next"><a href="/ovulation-phase">Next</a></li>
+    <li class="previous"><a href="{{ site.baseurl }}{% link the-menstruation-phase.markdown %}">Previous</a></li>
+    <li class="next"><a href="{{ site.baseurl }}{% link ovulation-phase.markdown %}">Next</a></li>
   </ul>
