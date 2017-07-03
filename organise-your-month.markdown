@@ -3,7 +3,7 @@ title: Organise Your Month
 layout: default
 ---
 
-<section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-50" data-background="/circleblossom-test/assets/images/20.jpeg">
+<section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-50" data-background="/assets/images/20.jpeg">
 
   <div class="hs-caption container">
     <div class="caption-content">
@@ -15,7 +15,17 @@ layout: default
 
 </section >
 
-## How to organise your month?
+<div class="wrapper">
+<div class="container-fluid">
+
+<div class="row relative">
+
+<div class="col-sm-12 col-md-12">
+
+<section id="bless" markdown="1">
+
+
+# How to organise your month?
 
 Your cycle is a powerful resource. Once you are aware of the optimum abilities you possess in each phase you are going to achieve the goals you desire.
 
@@ -28,7 +38,7 @@ Write all your events and deadlines on the side and simply put them in your cale
 
 >Here it’s fun to play with your tasks and your abilities on when and where to put your events. Instead of choosing the first date coming, by knowing your mood and desire before, you will be able to put the exact event at the exact place and time.
 
-![circle](/circleblossom-test/assets/images/circle.jpg)
+![circle](/assets/images/circle.jpg)
 
 
 <span class="under">example 1:</span> Kirsten is visiting me from New York and as we are both crazy about hammams and saunas where we can have some precious time together to talk and share while relaxing, she proposed me a few dates.
@@ -62,3 +72,10 @@ The Pre-Menstruation Phase is the highest for creativity. **We enchained** our p
 I hope these examples will help you understand how you can take control of your cycle and match your peak abilities to your life.
 
 Please, feel free to contact me for any advice, questions and requests. 
+
+</section>
+
+</div>
+</div>
+</div>
+</div>

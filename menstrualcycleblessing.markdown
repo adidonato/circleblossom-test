@@ -4,7 +4,7 @@ date: 2017-06-26 20:08:00 Z
 layout: default
 ---
 
-<section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-50" data-background="/circleblossom-test/assets/images/9.jpeg">
+<section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-50" data-background="/assets/images/9.jpeg">
 
   <div class="hs-caption container">
     <div class="caption-content">
@@ -15,6 +15,17 @@ layout: default
   </div>
 
 </section >
+
+<div class="wrapper">
+<div class="container-fluid">
+
+<div class="row relative">
+
+<div class="col-sm-12 col-md-12">
+
+<section id="bless" markdown="1">
+
+## Menstrual Cycle Blessing
 
 Menstruation Cycle Awareness is the foundation of Soulful Womanhood and you’re going to use it everyday as a guide life to illuminate the essence of what it means to Be a Woman.
 
@@ -53,3 +64,10 @@ The entire duration of the Menstrual Cycle has been assumed to be 28 days as mos
 On each phase we experience specific abilities physically, mentally and emotionally.
 
 By knowing our optimum aptitudes, we are able to organise our month consciously and reach our full potential. It is simply a better comprehension on how our body, brain and soul work to embrace the life.
+
+</section>
+
+</div>
+</div>
+</div>
+</div>

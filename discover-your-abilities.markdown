@@ -3,7 +3,7 @@ title: Discovering Your Abilities
 layout: default
 ---
 
-<section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-50" data-background="/circleblossom-test/assets/images/19.jpeg">
+<section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-50" data-background="/assets/images/19.jpeg">
 
   <div class="hs-caption container">
     <div class="caption-content">
@@ -15,7 +15,17 @@ layout: default
 
 </section >
 
-## Discovering your abilities
+<div class="wrapper">
+<div class="container-fluid">
+
+<div class="row relative">
+
+<div class="col-sm-12 col-md-12">
+
+<section id="bless" markdown="1">
+
+
+# Discovering your abilities
 
 The previous chapters introduced the four phases of the Woman Cycle and the potential of them.
 
@@ -49,8 +59,17 @@ By reading carefully the chapter of [**the Four Phases**](/the-four-phases) and 
 
 Here is an example of The Tracker Cycle you can use. It is absolutely a non-exhaustive list and you can track and check everything you want.
 
-![picture](/circleblossom-test/assets/images/activity.jpg)
+![picture](/assets/images/activity.jpg)
 
 Please be gentle to yourself, this amazing technique is made for you to analyse your potential and optimise it. It is totally normal to have ups and downs during the month.
 
 >Remind yourself that a new project is always beneficial to be started during the Pre-Ovulation phase right after your period when you have all the energy to organise and motivate yourself to accomplish your goals.
+
+
+
+</section>
+
+</div>
+</div>
+</div>
+</div>

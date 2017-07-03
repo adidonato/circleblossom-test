@@ -500,32 +500,67 @@ a:hover, a:focus {
 	color: #000;
 }
 
+.pager {
+ /*background-color: #4d4d4d;*/
+
+ margin: 10px 10px 10px 10px;
+}
+
+.pager li>a {
+	background-color: #4d4d4d;
+	color: white;
+	font-family: "Inconsolata", sans-serif;
+	text-transform: uppercase;
+	font-size: 15px;
+
+}
+
+@media (min-width: 1200px) {
+		.pager {
+		 margin: 17px 308px 9px 240px;
+	}
+}
+
 h1, h2, h3, h4, h5, h6 {
 	line-height: 1.4;
 	font-weight: 400;
 	font-family: 'Josefin Slab', serif;
 	color: #4d4d4d;
-  text-align: center;
+  /*text-align: center;*/
+	text-align: justify;
 }
 
 
 h1 {
-	font-size: 80px;
+	font-size: 60px;
 	color: #4d4d4d;
 	padding: 20px;
 }
 
+@media (min-width: 1200px) {
+	h1 {
+		 width: 1000px;
+		 margin: 30px 10px 27px 218px;
+		 font-size: 80px;
+		 color: #afb797;
+		 padding: 30px;
+	 }
+}
+
 h2 {
 	 font-size: 46px;
-	 color: #4d4d4d;
+	 color: #afb797;
 	 padding: 40px;
  }
 
 @media (min-width: 1200px) {
 	h2 {
+		 padding: 30px;
+		 width: 900px;
+		 margin: 30px 10px 27px 218px;
 		 font-size: 60px;
-		 color: #4d4d4d;
-		 padding: 18px;
+		 color: #afb797;
+		 padding: 30px;
 	 }
 }
 
@@ -536,6 +571,12 @@ h3 {
 	text-decoration: underline;
 	text-decoration-style: dotted;
 	padding: 15px;
+}
+@media (min-width: 1200px) {
+	h3 {
+	padding: 15px;
+	margin: 20px 18px 15px 233px;
+	}
 }
 
  p {
@@ -579,7 +620,7 @@ ol, ul, blockquote {
 	font-weight: normal;
 	font-size: 20px;
 	/*text-align: center;*/
-	/*margin-left: 240px;*/
+	margin-left: 240px;
   /*word-wrap: break-word;*/
   /*width: 900px;*/
 }
@@ -978,6 +1019,13 @@ Sections
 	margin: 0;
 }
 
+/* Agenda block */
+
+.agenda h1, .agenda h2, .agenda h3, .agenda h4, .agenda h5, .agenda h6, .agenda p, .agenda blockquote, .agenda ul, .agenda ol {
+	text-align: center;
+
+}
+
 /* ------------------------------------------------------------------
 Social list
 ------------------------------------------------------------------- */
@@ -1202,6 +1250,7 @@ Portfolio
 	font-size: 18px;
 	color: #fff;
 	margin: 0 0 6px;
+	text-align: unset;
 }
 
 .work-descr {
