@@ -54,6 +54,6 @@ It is time to take care of yourself: have a nice massage, a warm bath with nice 
 You may feel more tired sometimes, go to sleep one hour earlier you will feel the difference the next morning.
 
 <ul class="pager">
-    <li class="previous"><a href="/ovulation-phase">Previous</a></li>
+    <li class="previous"><a href="{{ site.baseurl }}{% link ovulation-phase.markdown %}">Previous</a></li> 
     <!-- <li class="next"><a href="/pre-menstruation-phase">Back to </a></li> -->
   </ul>
