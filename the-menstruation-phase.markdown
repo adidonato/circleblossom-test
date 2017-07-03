@@ -74,5 +74,5 @@ It requires self-confidence to postpone a job if you have some dead-line but it 
 
 <ul class="pager">
     <!-- <li class="previous"><a href="#">Previous</a></li> -->
-    <li class="next"><a href="{{ site.baseurl }}{% link /the-pre-ovulation-phase %}">Next</a></li>
+    <li class="next"><a href="{{ site.baseurl }}{% link the-pre-ovulation-phase.markdown %}">Next</a></li>
   </ul>
