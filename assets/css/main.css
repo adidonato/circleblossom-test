@@ -606,12 +606,8 @@ h3 {
  }
 }
 
-@media (min-width: 1200px) {
-	ol, ul {
 
 
-	}
-}
 ol, ul, blockquote {
 	/*font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;*/
 	font-family: 'Arvo', serif;
@@ -620,9 +616,15 @@ ol, ul, blockquote {
 	font-weight: normal;
 	font-size: 20px;
 	/*text-align: center;*/
-	margin-left: 240px;
+
   /*word-wrap: break-word;*/
   /*width: 900px;*/
+}
+
+@media (min-width: 1200px) {
+	ol, ul, blockquote {
+		margin-left: 240px;
+	}
 }
 
 .highlight {
@@ -1192,15 +1194,7 @@ Portfolio
 	margin: 0;
 }
 
-/*@media (max-width: 480px) {
-	.works-grid-3 .work-item {
-		width: 100%;
-	}
 
-	.container > .works-grid-3 .work-item {
-		width: 100%;
-	}
-}*/
 
 .works-grid-3 .work-item {
 	width: 33.333%;
@@ -1213,6 +1207,8 @@ Portfolio
 .works-grid-4 .work-item {
 	width: 25%;
 }
+
+
 
 /* Portfolio item */
 
@@ -1276,6 +1272,28 @@ Portfolio
 
 .works-grid-4 .work-descr {
 	font-size: 12px;
+}
+
+@media (max-width: 480px) {
+	.works-grid-3 .work-item {
+		width: 100%;
+		padding: 5px;
+	}
+
+	.container > .works-grid-3 .work-item {
+		width: 100%;
+	}
+}
+
+@media (max-width: 480px) {
+	.works-grid-2 .work-item {
+		width: 100%;
+		padding: 5px;
+	}
+
+	.container > .works-grid-2 .work-item {
+		width: 100%;
+	}
 }
 
 /* Portfolio item hover */
@@ -1870,8 +1888,8 @@ only screen and (max-device-width : 480px){
 	.works-grid-3 .work-item,
 	.works-grid-4 .work-item,
 	.works-grid-5 .work-item {
-		position: relative;
-		column-width: 100%;
+		/*position: relative;*/
+		/*column-width: 100%;*/
 		width: 100%;
 	}
 

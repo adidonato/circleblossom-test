@@ -3,6 +3,26 @@ title: Pre-menstruation Phase
 date: 2017-06-27 20:02:00 Z
 layout: default
 ---
+<section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-50" data-background="{{ site.baseurl }}{% link /assets/images2/33.jpg %}">
+
+  <div class="hs-caption container">
+    <div class="caption-content">
+      <div class="hs-title-size-3 font-alt m-b-20">
+      Pre-menstruation Phase
+      </div>
+    </div>
+  </div>
+
+</section >
+
+<div class="wrapper">
+<div class="container-fluid">
+
+<div class="row relative">
+
+<div class="col-sm-12 col-md-12">
+
+<section id="bless" markdown="1">
 
 # The Priestess of Autumn - Day 21 to 28
 
@@ -52,6 +72,13 @@ Have always some water with you and a little something to eat as you can experie
 It is time to take care of yourself: have a nice massage, a warm bath with nice candles and essentials oils, eat nourishing and comforting healthy food, read a nice book, find a place at home where you can be alone and relax yourself without perturbation, take a restorative class of yoga.
 
 You may feel more tired sometimes, go to sleep one hour earlier you will feel the difference the next morning.
+
+</section>
+
+</div>
+</div>
+</div>
+</div>
 
 <ul class="pager">
     <li class="previous"><a href="{{ site.baseurl }}{% link ovulation-phase.markdown %}">Previous</a></li>

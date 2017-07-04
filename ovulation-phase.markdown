@@ -3,6 +3,27 @@ title: Ovulation Phase
 date: 2017-06-27 19:58:00 Z
 layout: default
 ---
+<section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-50" data-background="{{ site.baseurl }}{% link /assets/images2/31.jpg %}">
+
+  <div class="hs-caption container">
+    <div class="caption-content">
+      <div class="hs-title-size-3 font-alt m-b-20">
+      Ovulation Phase
+      </div>
+    </div>
+  </div>
+
+</section >
+
+<div class="wrapper">
+<div class="container-fluid">
+
+<div class="row relative">
+
+<div class="col-sm-12 col-md-12">
+
+<section id="bless" markdown="1">
+
 
 # The Mother of Summer - Day 14 to 20
 
@@ -62,6 +83,13 @@ If you are trying to get pregnant, follow the flow and don’t program “making
 Tell your feelings to the people you love.
 
 It is good to start writing some good memories of the day and keeping them in a journal. I personally write my three top of the day, every morning on my bullet journal.
+
+</section>
+
+</div>
+</div>
+</div>
+</div>
 
 <ul class="pager">
     <li class="previous"><a href="{{ site.baseurl }}{% link the-pre-ovulation-phase.markdown %}">Previous</a></li>

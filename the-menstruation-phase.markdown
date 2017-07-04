@@ -3,8 +3,28 @@ title: The Menstruation Phase
 date: 2017-06-27 19:51:00 Z
 layout: default
 ---
+<section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-50" data-background="{{ site.baseurl }}{% link /assets/images2/34.jpg %}">
 
-## The Winter Wise Woman - Day 1 to 6
+  <div class="hs-caption container">
+    <div class="caption-content">
+      <div class="hs-title-size-3 font-alt m-b-20">
+      The Menstruation Phase
+      </div>
+    </div>
+  </div>
+
+</section >
+
+<div class="wrapper">
+<div class="container-fluid">
+
+<div class="row relative">
+
+<div class="col-sm-12 col-md-12">
+
+<section id="bless" markdown="1">
+
+# The Winter Wise Woman - Day 1 to 6
 
 This phase is your bleeding phase.
 
@@ -71,6 +91,13 @@ Try to connect with Nature as much as possible.
 If you are familiar with any relaxation or meditation techniques, it is a fabulous moment to explore them.
 
 It requires self-confidence to postpone a job if you have some dead-line but it will give you the best results. Trust yourself: the more you rest, the more energised and powerful you’ll be in the next days.
+
+</section>
+
+</div>
+</div>
+</div>
+</div>
 
 <ul class="pager">
     <!-- <li class="previous"><a href="#">Previous</a></li> -->

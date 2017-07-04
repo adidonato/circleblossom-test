@@ -3,8 +3,29 @@ title: The Pre-ovulation Phase
 date: 2017-06-27 19:57:00 Z
 layout: default
 ---
+<section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-50" data-background="{{ site.baseurl }}{% link /assets/images2/32.jpg %}">
 
-## The Maiden of Spring - Day 7 to 13
+  <div class="hs-caption container">
+    <div class="caption-content">
+      <div class="hs-title-size-3 font-alt m-b-20">
+      The Pre-ovulation Phase
+      </div>
+    </div>
+  </div>
+
+</section >
+
+<div class="wrapper">
+<div class="container-fluid">
+
+<div class="row relative">
+
+<div class="col-sm-12 col-md-12">
+
+<section id="bless" markdown="1">
+
+
+# The Maiden of Spring - Day 7 to 13
 
 Rise of energy phase
 
@@ -57,6 +78,13 @@ You can do a lot of brainstorming and go straight to the point, big decisions ar
 If you plan on trying a new diet and start eating healthy, this time is ideal as you will have big motivation.
 
 Don’t forget to thank yourself and note all your achievements: it always gives satisfaction to look at the tasks we accomplished.
+
+</section>
+
+</div>
+</div>
+</div>
+</div>
 
 <ul class="pager">
     <li class="previous"><a href="{{ site.baseurl }}{% link the-menstruation-phase.markdown %}">Previous</a></li>
