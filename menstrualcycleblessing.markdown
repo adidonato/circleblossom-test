@@ -25,7 +25,7 @@ layout: default
 
 <section id="bless" markdown="1">
 
-## Menstrual Cycle Blessing
+# Menstrual Cycle Blessing
 
 Menstruation Cycle Awareness is the foundation of Soulful Womanhood and you’re going to use it everyday as a guide life to illuminate the essence of what it means to Be a Woman.
 

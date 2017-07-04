@@ -4,7 +4,7 @@ date: 2017-06-27 19:58:00 Z
 layout: default
 ---
 
-## The Mother of Summer - Day 14 to 20
+# The Mother of Summer - Day 14 to 20
 
 Many women pay attention on the ovulation phase when they want to become pregnant and not before. This phase is a pure and beautiful moment where your energy is peaking! Flowering! and you are stepping back into the world.
 

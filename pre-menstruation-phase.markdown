@@ -4,7 +4,7 @@ date: 2017-06-27 20:02:00 Z
 layout: default
 ---
 
-## The Priestess of Autumn - Day 21 to 28
+# The Priestess of Autumn - Day 21 to 28
 
 This is the yin and yang phase. A remarkable cascade of hormonal events who give rise to varied possible emotions.
 
@@ -54,6 +54,6 @@ It is time to take care of yourself: have a nice massage, a warm bath with nice 
 You may feel more tired sometimes, go to sleep one hour earlier you will feel the difference the next morning.
 
 <ul class="pager">
-    <li class="previous"><a href="{{ site.baseurl }}{% link ovulation-phase.markdown %}">Previous</a></li> 
+    <li class="previous"><a href="{{ site.baseurl }}{% link ovulation-phase.markdown %}">Previous</a></li>
     <!-- <li class="next"><a href="/pre-menstruation-phase">Back to </a></li> -->
   </ul>
