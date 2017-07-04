@@ -11,22 +11,22 @@
 
         <!-- Favicons
     ================================================== -->
-		<link rel="apple-touch-icon" sizes="57x57" href="/assets/images/favico/apple-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="60x60" href="/assets/images/favico/apple-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="72x72" href="/assets/images/favico/apple-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="76x76" href="/assets/images/favico/apple-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="/assets/images/favico/apple-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="120x120" href="/assets/images/favico/apple-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="/assets/images/favico/apple-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="152x152" href="/assets/images/favico/apple-icon-152x152.png">
-<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favico/apple-icon-180x180.png">
-<link rel="icon" type="image/png" sizes="192x192"  href="/assets/images/favico/android-icon-192x192.png">
-<link rel="icon" type="image/png" sizes="32x32" href="assets/images/favico/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="96x96" href="/assets/images/favico/favicon-96x96.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favico/favicon-16x16.png">
+		<link rel="apple-touch-icon" sizes="57x57" href="/assets/images2/favico/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/images2/favico/apple-icon-60x60.jpg">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/images2/favico/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/images2/favico/apple-icon-76x75.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/images2/favico/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/images2/favico/apple-icon-120x120.jpg">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/images2/favico/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/images2/favico/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/images2/favico/apple-icon-180x180.jpg">
+<link rel="icon" type="image.jpg" sizes="192x192"  href="/assets/images2/favico/android-icon-192x192.png">
+<link rel="icon" type="image.jpg" sizes="32x32" href="assets/images2/favico/favicon-32x32.png">
+<link rel="icon" type="image.jpg" sizes="96x96" href="/assets/images2/favico/favicon-96x95.png">
+<link rel="icon" type="image.jpg" sizes="16x16" href="/assets/images2/favico/favicon-16x15.png">
 <link rel="manifest" href="/manifest.json">
 <meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-TileImage" content="/assets/images/favico/ms-icon-144x144.png">
+<meta name="msapplication-TileImage" content="/assets/images2/favico/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 
 	<!-- Bootstrap core CSS -->
@@ -149,7 +149,7 @@ ga('send', 'pageview');
  <title>Notes from Circle Blossom</title>
  <link href="http://circleblossom.com/notes/atom.xml" rel="self"/>
  <link href="http://circleblossom.com/notes/"/>
- <updated>2017-07-03T17:41:22+00:00</updated>
+ <updated>2017-07-04T11:48:45+00:00</updated>
  <id>http://circleblossom.com/notes/</id>
  <author>
    <name>Circle Blossom</name>
@@ -237,7 +237,7 @@ ga('send', 'pageview');
 </div>
 
 <div class="col-md-8 col-sm-12 text-center logo">
-	<a href="/index.html"><img src="/assets/images/logo.png"/></a>
+	<a href="/"><img src="/assets/images2/logo.png"/></a>
 	<p class="copyright font-inc m-b-0">© 2017 <a href="/">Circle Blossom</a>, All Rights Reserved.</p>
 	<p class="copyright2 font-inc m-b-0">Crafted with love by <a href="http://angelodidonato.com">Angelo Di Donato</a>.</p>
 	</div>

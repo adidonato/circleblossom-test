@@ -3,6 +3,28 @@ title: Yoni Eggs Blessing
 date: 2017-06-27 20:08:00 Z
 layout: default
 ---
+<section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-50" data-background="{{ site.baseurl }}{% link /assets/images2/28.jpg %}">
+
+  <div class="hs-caption container">
+    <div class="caption-content">
+      <div class="hs-title-size-3 font-alt m-b-20">
+      Blessing Yoni Eggs
+      </div>
+    </div>
+  </div>
+
+</section >
+
+<div class="wrapper">
+<div class="container-fluid">
+
+<div class="row relative">
+
+<div class="col-sm-12 col-md-12">
+
+<section id="bless" markdown="1">
+
+
 
 # Blessing Yoni Eggs
 
@@ -35,3 +57,11 @@ This is a non-exhaustive list of what you can experience with regular practice:
  - Releasing traumas stored in your body
  - Discovering new level in your meditation or yoga practices
  - Confidence in your daily life
+
+
+ </section>
+
+ </div>
+ </div>
+ </div>
+ </div>

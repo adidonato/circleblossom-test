@@ -1,8 +1,30 @@
 ---
-title: Choose my first yoni egg
+title: Cherry-pick your First Yoni Egg
 layout: default
 date: 2017-06-27 20:10:00 Z
 ---
+<section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-50" data-background="{{ site.baseurl }}{% link /assets/images2/29.jpg %}">
+
+  <div class="hs-caption container">
+    <div class="caption-content">
+      <div class="hs-title-size-3 font-alt m-b-20">
+      Cherry-pick your First Yoni Egg
+      </div>
+    </div>
+  </div>
+
+</section >
+
+<div class="wrapper">
+<div class="container-fluid">
+
+<div class="row relative">
+
+<div class="col-sm-12 col-md-12">
+
+<section id="bless" markdown="1">
+
+
 
 # Cherry-pick your First Yoni Egg
 
@@ -16,7 +38,7 @@ Well, let’s be honest! It does count!
 
 Usually eggs come in three sizes: Large; Medium and Small
 
-pict
+![pict](/assets/images2/pic3.jpg)
 
 I use all sizes of eggs depending on my needs, desire and phase of my cycle as my uterus col is not placed at the same point.
 
@@ -99,3 +121,11 @@ Don’t worry the egg won’t get “lost”! There is no reason of harm in wear
 After a few weeks of practice, you’ll learn how to be able to push the egg out with your vagina muscles.
 
 We consciously choose to provide Drilled Eggs. The magic of drilled Yoni Eggs is that they can be used both with string or not as you don’t have to buy all your twin undrilled ones.  
+
+
+</section>
+
+</div>
+</div>
+</div>
+</div>

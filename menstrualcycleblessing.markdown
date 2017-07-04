@@ -4,7 +4,7 @@ date: 2017-06-26 20:08:00 Z
 layout: default
 ---
 
-<section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-50" data-background="/assets/images/9.jpeg">
+<section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-50" data-background="/assets/images2/9.jpg">
 
   <div class="hs-caption container">
     <div class="caption-content">
@@ -50,7 +50,7 @@ When I thought about the menstrual cycle, I had always focused on my bleeding ti
 
 ### I was far away from knowing myself and my cycle. !
 
-![24.png](/uploads/24.png)
+![24.png](/assets/images2/24.jpg)
 
 ## What they never told us at school!
 

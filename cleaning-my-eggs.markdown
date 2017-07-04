@@ -1,8 +1,30 @@
 ---
-title: Cleaning my eggs
+title: Caring about my Yoni Egg
 date: 2017-06-27 20:14:00 Z
 layout: default
 ---
+<section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-50" data-background="{{ site.baseurl }}{% link /assets/images2/30.jpg %}">
+
+  <div class="hs-caption container">
+    <div class="caption-content">
+      <div class="hs-title-size-3 font-alt m-b-20">
+      Caring about my Yoni Egg
+      </div>
+    </div>
+  </div>
+
+</section >
+
+<div class="wrapper">
+<div class="container-fluid">
+
+<div class="row relative">
+
+<div class="col-sm-12 col-md-12">
+
+<section id="bless" markdown="1">
+
+
 
 # Caring about my Yoni Egg
 
@@ -51,3 +73,11 @@ For a regular practice of 4/5 times a week, cleaning once or twice a month is pe
 
 Notice that if you use your Yoni Eggs with your partner for making love, a cleanse after sex is necessary to let your lover’s energy goes out of your egg.
 I will tell you more about men and Yoni Egg soon.
+
+
+</section>
+
+</div>
+</div>
+</div>
+</div>

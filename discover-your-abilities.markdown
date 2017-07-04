@@ -3,7 +3,7 @@ title: Discovering Your Abilities
 layout: default
 ---
 
-<section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-50" data-background="/assets/images/19.jpeg">
+<section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-50" data-background="/assets/images2/19.jpg">
 
   <div class="hs-caption container">
     <div class="caption-content">
@@ -59,7 +59,7 @@ By reading carefully the chapter of [**the Four Phases**](/the-four-phases) and 
 
 Here is an example of The Tracker Cycle you can use. It is absolutely a non-exhaustive list and you can track and check everything you want.
 
-![picture](/assets/images/activity.jpg)
+![picture](/assets/images2/activity.jpg)
 
 Please be gentle to yourself, this amazing technique is made for you to analyse your potential and optimise it. It is totally normal to have ups and downs during the month.
 
