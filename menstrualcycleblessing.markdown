@@ -4,7 +4,7 @@ date: 2017-06-26 20:08:00 Z
 layout: default
 ---
 
-<section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-50" data-background="/assets/images2/9.jpg">
+<section id="home" class="module-hero module-parallax module-fade module-full-height bg-dark-50" data-background="{{ site.baseurl }}{% link /assets/images2/9.jpg %}">
 
   <div class="hs-caption container">
     <div class="caption-content">
